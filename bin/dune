@@ -1,0 +1,4 @@
+(executable
+ (public_name aoclisp)
+ (name repl)
+ (libraries common))
